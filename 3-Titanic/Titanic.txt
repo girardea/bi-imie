@@ -1,0 +1,623 @@
+Name	Survived	Boarded	Class	MWC	Age	Adult/Child	Sex	Paid	Ticket#	Boat [Body]	Job	Class.Dept	Class.Full
+ABBING, Mr Anthony	Dead	Southampton	3	Man	42	Adult	Male	7.55	5547		Blacksmith	3rd Class Passenger	3
+ABBOTT, Mr Ernest Owen	Dead	Southampton	Crew	Man	21	Adult	Male				Lounge Pantry Steward	Victualling Crew	V
+ABBOTT, Mr Eugene Joseph	Dead	Southampton	3	Child	14	Child	Male	20.25	CA2673		Scholar	3rd Class Passenger	3
+ABBOTT, Mr Rossmore Edward	Dead	Southampton	3	Man	16	Adult	Male	20.25	CA2673	[190]	Jeweller	3rd Class Passenger	3
+ABBOTT, Mrs Rhoda Mary 'Rosa'	Alive	Southampton	3	Woman	39	Adult	Female	20.25	CA2673	A		3rd Class Passenger	3
+ABELSETH, Miss Karen Marie	Alive	Southampton	3	Woman	16	Adult	Female	7.65	348125	16		3rd Class Passenger	3
+ABELSETH, Mr Olaus Jrgensen	Alive	Southampton	3	Man	25	Adult	Male	7.65	348122	A	Farmer	3rd Class Passenger	3
+ABELSON, Mr Samuel	Dead	Cherbourg	2	Man	30	Adult	Male	24	3381			2nd Class Passenger	2
+ABELSON, Mrs Hannah	Alive	Cherbourg	2	Woman	28	Adult	Female	24	3381	10		2nd Class Passenger	2
+ABRAHAMSSON, Mr Abraham August Johannes	Alive	Southampton	3	Man	20	Adult	Male	7.925	3101284	15		3rd Class Passenger	3
+ABRAHIM, Mrs Mary Sophie Halaut	Alive	Cherbourg	3	Woman	18	Adult	Female	7.22916667	2657	C		3rd Class Passenger	3
+ABRAMS, Mr William Thomas	Dead	Southampton	Crew	Man	33	Adult	Male				Fireman	Engineering Crew	E
+DAHL, Mr Mauritz Nils Martin	Dead	Southampton	3	Man	30	Adult	Male	7.25	7076	[72]	General Labourer	3rd Class Passenger	3
+ADAMS, Mr John	Dead	Southampton	3	Man	26	Adult	Male	8.05	341826	[103]		3rd Class Passenger	3
+ADAMS, Mr Robert John	Dead	Southampton	Crew	Man	26	Adult	Male				Fireman	Engineering Crew	E
+AHIER, Mr Percy Snowden	Dead	Southampton	Crew	Man	20	Adult	Male				Saloon Steward	Victualling Crew	V
+AHLIN, Mrs Johanna Persdotter	Dead	Southampton	3	Woman	40	Adult	Female	9.475	7546			3rd Class Passenger	3
+AKERMAN, Mr Albert Edward	Dead	Southampton	Crew	Man	31	Adult	Male				3rd Class Steward	Victualling Crew	V
+AKERMAN, Mr Joseph Francis	Dead	Southampton	Crew	Man	35	Adult	Male			[205]	Assistant Pantryman Steward	Victualling Crew	V
+AKS, Master Frank Philip	Alive	Southampton	3	Child	0.83	Child	Male	9.35	392091	11		3rd Class Passenger	3
+AKS, Mrs Leah	Alive	Southampton	3	Woman	18	Adult	Female	9.35	392091	13		3rd Class Passenger	3
+ALBIMONA, Mr Nassef Cassem	Alive	Cherbourg	3	Man	26	Adult	Male	18.7875	2699	15		3rd Class Passenger	3
+ALDWORTH, Mr Augustus Henry	Dead	Southampton	2	Man	34	Adult	Male	13			Chauffeur		2
+ALEXANDER, Mr William	Dead	Southampton	3	Man	23	Adult	Male	7.8875	3474		General Labourer	3rd Class Passenger	3
+ALHOM_KI, Mr Ilmari Rudolf	Dead	Southampton	3	Man	19	Adult	Male	7.925	3101287		General Labourer	3rd Class Passenger	3
+ALI, Mr Ahmed	Dead	Southampton	3	Man	24	Adult	Male	7.05	3101311		General Labourer	3rd Class Passenger	3
+ALI, Mr William	Dead	Southampton	3	Man	25	Adult	Male	7.05	3101312	[79]	General Labourer	3rd Class Passenger	3
+ALLARIA, Sig. Battista Antonio	Dead	Southampton	Crew	Man	22	Adult	Male			[221]	Assistant Waiter	Restaurant Staff	R
+ALLEN, Miss Elisabeth Walton	Alive	Southampton	1	Woman	29	Adult	Female	211.3375	24160	2		1st Class Passenger	1
+ALLEN, Mr Ernest Frederick	Alive	Southampton	Crew	Man	24	Adult	Male			B	Trimmer	Engineering Crew	E
+ALLEN, Mr Frederick	Dead	Southampton	Crew	Man	17	Adult	Male				Lift Steward	Victualling Crew	V
+ALLEN, Mr George	Dead	Southampton	Crew	Man	26	Adult	Male				Scullion	Victualling Crew	V
+ALLEN, Mr Henry	Dead	Southampton	Crew	Man	32	Adult	Male			[145]	Fireman	Engineering Crew	E
+ALLEN, Mr Robert Spencer	Dead	Southampton	Crew	Man	36	Adult	Male				Bedroom Steward (1st Class)	Victualling Crew	V
+ALLEN, Mr William Henry	Dead	Southampton	3	Man	38	Adult	Male	8.05	373450		Tool Maker	3rd Class Passenger	3
+ALLISON, Master Hudson Trevor	Alive	Southampton	1	Child	0.92	Child	Male	151.8	113781	11		1st Class Passenger	1
+ALLISON, Miss Helen Loraine	Dead	Southampton	1	Child	2	Child	Female	151.8	113781			1st Class Passenger	1
+ALLISON, Mr Hudson Joshua Creighton	Dead	Southampton	1	Man	30	Adult	Male	151.8	113781	[135]	Businessman	1st Class Passenger	1
+ALLISON, Mrs Bessie Waldo	Dead	Southampton	1	Woman	25	Adult	Female	151.8	113781			1st Class Passenger	1
+ALLSOP, Mr Alfred Samuel	Dead	Belfast	Crew	Man	35	Adult	Male				2nd Electrician	Engineering Crew	E
+ALLSOP, Mr Frank Richard	Dead	Belfast	Crew	Man	41	Adult	Male				Saloon Steward	Victualling Crew	V
+ALLUM, Mr Owen George	Dead	Southampton	3	Man	15	Adult	Male	8.3	2223	[259]	Gardener	3rd Class Passenger	3
+ANDERSEN-JENSEN, Miss Carla Christine Nielsine	Alive	Southampton	3	Woman	19	Adult	Female	7.85416667	350046	16		3rd Class Passenger	3
+ANDERSEN, Mr Albert Karvin	Dead	Southampton	3	Man	33	Adult	Male	22.525	4001	[260]	Engineer	3rd Class Passenger	3
+ANDERSON, Mr Harry	Alive	Southampton	1	Man	47	Adult	Male	26.55	19952	3	Stockbroker	1st Class Passenger	1
+ANDERSON, Mr James	Alive	Southampton	Crew	Man	40	Adult	Male			3	Able Seaman	Deck Crew	D
+ANDERSON, Mr Walter Yuill	Dead	Southampton	Crew	Man	48	Adult	Male			[146]	Bed Room Steward	Victualling Crew	V
+ANDERSSON, Master Sigvard Harald Elias	Dead	Southampton	3	Child	4	Child	Male	31.275	347082			3rd Class Passenger	3
+ANDERSSON, Miss Ebba Iris Alfrida	Dead	Southampton	3	Child	6	Child	Female	31.275	347082			3rd Class Passenger	3
+ANDERSSON, Miss Ellis Anna Maria	Dead	Southampton	3	Child	2	Child	Female	31.275	347082			3rd Class Passenger	3
+ANDERSSON, Miss Erna Alexandra	Alive	Southampton	3	Woman	17	Adult	Female	7.925	3101281	D		3rd Class Passenger	3
+ANDERSSON, Miss Ida Augusta Margareta	Dead	Southampton	3	Woman	38	Adult	Female	7.775	347091			3rd Class Passenger	3
+ANDERSSON, Miss Ingeborg Constanzia	Dead	Southampton	3	Child	9	Child	Female	31.275	347082			3rd Class Passenger	3
+ANDERSSON, Miss Sigrid Elisabeth	Dead	Southampton	3	Child	11	Child	Female	31.275	347082			3rd Class Passenger	3
+ANDERSSON, Mr Anders Johan	Dead	Southampton	3	Man	39	Adult	Male	31.275	347082		General Labourer	3rd Class Passenger	3
+ANDERSSON, Mr Johan Samuel	Dead	Southampton	3	Man	26	Adult	Male	7.775	347075		General Labourer	3rd Class Passenger	3
+ANDERSSON, Mrs Alfrida Konstantia Brogren	Dead	Southampton	3	Woman	39	Adult	Female	31.275	347082			3rd Class Passenger	3
+ANDREASSON, Mr Paul Edvin	Dead	Southampton	3	Man	20	Adult	Male	7.85416667	347466		General Labourer	3rd Class Passenger	3
+ANDREW, Mr Edgar Samuel	Dead	Southampton	2	Man	17	Adult	Male	11.5	231945			2nd Class Passenger	2
+ANDREW, Mr Frank Thomas	Dead	Southampton	2	Man	25	Adult	Male	10.5	34050		Miner	2nd Class Passenger	2
+ANDREWS, Miss Kornelia Theodosia	Alive	Cherbourg	1	Woman	62	Adult	Female	77.9583333	13502	10		1st Class Passenger	1
+ANDREWS, Mr Charles Edward	Alive	Southampton	Crew	Man	19	Adult	Male			16	Saloon Steward (2nd class)	Victualling Crew	V
+ANDREWS, Mr Thomas	Dead	Belfast	1	Man	39	Adult	Male	0	112050		Shipbuilder	1st Class PassengerH&W Guarantee Group	1
+ANGHELOFF, Mr Minko	Dead	Southampton	3	Man	26	Adult	Male	7.89583333	349202		General Labourer	3rd Class Passenger	3
+ANGLE, Mr William A.	Dead	Southampton	2	Man	32	Adult	Male	26	226875			2nd Class Passenger	2
+ANGLE, Mrs Florence Mary Agnes	Alive	Southampton	2	Woman	36	Adult	Female	26		11			2
+APPLETON, Mrs Charlotte	Alive	Southampton	1	Woman	53	Adult	Female	51.4791667	11769	2		1st Class Passenger	1
+ARCHER, Mr Ernest Edward	Alive	Southampton	Crew	Man	35	Adult	Male			16	Able Seaman	Deck Crew	D
+ARNOLD-FRANCHI, Mr Josef	Dead	Southampton	3	Man	25	Adult	Male	17.8	349237		General Labourer	3rd Class Passenger	3
+ARNOLD-FRANCHI, Mrs Josefine	Dead	Southampton	3	Woman	18	Adult	Female	17.8	349237			3rd Class Passenger	3
+ARONSSON, Mr Ernst Axel Algot	Dead	Southampton	3	Man	24	Adult	Male	7.775	349911		General Labourer	3rd Class Passenger	3
+ARTAGAVEYTIA, Mr Ramon	Dead	Cherbourg	1	Man	71	Adult	Male	49.5041667	17609	[22]	Businessman	1st Class Passenger	1
+ASHBY, Mr John	Dead	Southampton	2	Man	57	Adult	Male	13	244346			2nd Class Passenger	2
+ASHCROFT, Mr Austin Aloysius	Dead	Southampton	Crew	Man	26	Adult	Male				Clerk	Victualling Crew	V
+ASHE, Mr Henry Wellesley	Dead	Southampton	Crew	Man	41	Adult	Male			[34]	Glory hole steward (3rd class)	Victualling Crew	V
+ASIM, Mr Adola	Dead	Southampton	3	Man	35	Adult	Male	7.05	3101310		General Labourer	3rd Class Passenger	3
+ASPESLAGH, Mr Georges	Dead	Southampton	Crew	Man	26	Adult	Male				Assistant Plateman	Restaurant Staff	R
+ASPLUND, Master Carl Edgar	Dead	Southampton	3	Child	5	Child	Male	31.3875	347077			3rd Class Passenger	3
+ASPLUND, Master Clarence Gustaf Hugo	Dead	Southampton	3	Child	9	Child	Male	31.3875	347077			3rd Class Passenger	3
+ASPLUND, Master Edvin Rojj Felix	Alive	Southampton	3	Child	3	Child	Male	31.3875	347077	15		3rd Class Passenger	3
+ASPLUND, Master Filip Oscar	Dead	Southampton	3	Child	13	Child	Male	31.3875	347077			3rd Class Passenger	3
+ASPLUND, Miss Lillian Gertrud	Alive	Southampton	3	Child	5	Child	Female	31.3875	347077	15		3rd Class Passenger	3
+ASPLUND, Mr Carl Oscar Vilhelm Gustafsson	Dead	Southampton	3	Man	40	Adult	Male	31.3875	347077	[142]	General Labourer	3rd Class Passenger	3
+ASPLUND, Mr Johan Charles	Alive	Southampton	3	Man	23	Adult	Male	7.79583333	350054	13		3rd Class Passenger	3
+ASPLUND, Mrs Selma Augusta Emilia	Alive	Southampton	3	Woman	38	Adult	Female	31.3875	347077	15		3rd Class Passenger	3
+ASSAF, Mrs Mariana	Alive	Cherbourg	3	Woman	45	Adult	Female	7.225	2696	C		3rd Class Passenger	3
+ASSAM, Mr Ali	Dead	Southampton	3	Man	23	Adult	Male	7.05	3101309		General Labourer	3rd Class Passenger	3
+ASTOR, Colonel John Jacob	Dead	Cherbourg	1	Man	47	Adult	Male	247.525	17757	[124]	Property Developer / Real Estate	1st Class Passenger	1
+ASTOR, Mrs Madeleine Talmage	Alive	Cherbourg	1	Woman	18	Adult	Female	247.525	17757	4		1st Class Passenger	1
+ATTALA, Mr Sleiman	Dead	Cherbourg	3	Man	27	Adult	Male	7.225	2694		Journalist	3rd Class Passenger	3
+ATTALAH, Miss Malake	Dead	Cherbourg	3	Woman	17	Adult	Female	14.4583333	2627			3rd Class Passenger	3
+AUBART, Mme. Lontine Pauline	Alive	Cherbourg	1	Woman	24	Adult	Female	69.3	17477	9	Singer	1st Class Passenger	1
+AUGUSTSSON, Mr Albert	Dead	Southampton	3	Man	23	Adult	Male	7.85416667	347468		General Labourer	3rd Class Passenger	3
+AVERY, Mr James Albert	Alive	Southampton	Crew	Man	22	Adult	Male			15	Trimmer	Engineering Crew	E
+AYLING, Mr Edwin George	Dead	Southampton	Crew	Man	22	Adult	Male				Assistant Vegetable Cook	Victualling Crew	V
+AYOUB DAHER, Miss Banoura	Alive	Cherbourg	3	Woman	15	Adult	Female	7.22916667	2687	C		3rd Class Passenger	3
+BACCOS, Mr Raffull	Dead	Cherbourg	3	Man	20	Adult	Male	7.225	2679		Farm Labourer	3rd Class Passenger	3
+BACK, Mr Charles Frederick	Dead	Belfast	Crew	Man	32	Adult	Male				Assistant Lounge Steward	Victualling Crew	V
+BACKSTRM, Mr Karl Alfred	Dead	Southampton	3	Man	32	Adult	Male	15.85	3101278		General Labourer	3rd Class Passenger	3
+BACKSTRM, Mrs Maria Mathilda	Alive	Southampton	3	Woman	33	Adult	Female	15.85	3101278			3rd Class Passenger	3
+BACLINI, Miss Eugenie	Alive	Cherbourg	3	Child	3	Child	Female	19.2583333	2666	C		3rd Class Passenger	3
+BACLINI, Miss Helene Barbara	Alive	Cherbourg	3	Child	0.75	Child	Female	19.2583333	2666	C		3rd Class Passenger	3
+BACLINI, Miss Marie Catherine	Alive	Cherbourg	3	Child	5	Child	Female	19.2583333	2666	C		3rd Class Passenger	3
+BACLINI, Mrs Latifa	Alive	Cherbourg	3	Woman	24	Adult	Female	19.2583333	2666	C		3rd Class Passenger	3
+BADMAN, Miss Emily Louisa	Alive	Southampton	3	Woman	18	Adult	Female	8.05	31416	C	Servant	3rd Class Passenger	3
+BADT, Mr Mohamed	Dead	Cherbourg	3	Man	40	Adult	Male	7.225	2623		Farmer	3rd Class Passenger	3
+BAGGOTT, Mr Allen Marden	Alive	Southampton	Crew	Man	28	Adult	Male			9	Saloon Steward	Victualling Crew	V
+BAGLEY, Mr Edward Henry	Dead	Southampton	Crew	Man	33	Adult	Male				Saloon Steward	Victualling Crew	V
+BAILEY, Mr George Francis	Dead	Belfast	Crew	Man	36	Adult	Male			[161]	Saloon Steward	Victualling Crew	V
+BAILEY, Mr George W.	Dead	Southampton	Crew	Man	46	Adult	Male				Fireman	Engineering Crew	E
+BAILEY, Mr Henry Joseph	Alive	Southampton	Crew	Man	43	Adult	Male			16	Master-at-arms	Deck Crew	D
+BAILEY, Mr Percy	Dead	Southampton	2	Man	15	Adult	Male	11.5	29108		Butcher's Assistant	2nd Class Passenger	2
+BAINBRIGGE, Mr Charles Robert	Dead	Southampton	2	Man	23	Adult	Male	10.5	31030		Horse Trainer	2nd Class Passenger	2
+BAINES, Mr Richard	Dead	Southampton	Crew	Man	24	Adult	Male				Greaser	Engineering Crew	E
+BALKIC, Mr Cerin	Dead	Southampton	3	Man	26	Adult	Male	7.89583333	349248		General Labourer	3rd Class Passenger	3
+BALL, Mr Percy	Alive	Southampton	Crew	Man	19	Adult	Male				Plate Steward	Victualling Crew	V
+BALL, Mrs Ada E.	Alive	Southampton	2	Woman	36	Adult	Female	13	28551	10		2nd Class Passenger	2
+BANFI, Sig. Ugo	Dead	Southampton	Crew	Man	24	Adult	Male				Waiter	Restaurant Staff	R
+BANFIELD, Mr Frederick James	Dead	Southampton	2	Man	28	Adult	Male	10.5	34068		Miner	2nd Class Passenger	2
+BANNON, Mr John Joseph	Dead	Southampton	Crew	Man	34	Adult	Male				Greaser	Engineering Crew	E
+BANSKI, Mrs Mara	Alive	Southampton	3	Woman	31	Adult	Female	8.68333333	349244			3rd Class Passenger	3
+BARBARA, Miss Saiide	Dead	Cherbourg	3	Woman	18	Adult	Female	14.4541667	2691		Housekeeper	3rd Class Passenger	3
+BARBARA, Mrs Catherine David	Dead	Cherbourg	3	Woman	45	Adult	Female	14.4541667	2691		Housekeeper	3rd Class Passenger	3
+BARBER, Miss Ellen Mary	Alive	Southampton	1	Woman	26	Adult	Female	78.85	19877	6	Personal Maid	1st Class PassengerServant	1
+BARKER, Mr Albert Vale	Dead	Southampton	Crew	Man	19	Adult	Male				Baker	Victualling Crew	V
+BARKER, Mr Ernest Thomas	Dead	Southampton	Crew	Man	40	Adult	Male			[159]	Saloon Steward (1st class)	Victualling Crew	V
+BARKER, Mr Reginald Lomond	Dead	Belfast	Crew	Man	40	Adult	Male				Second Purser, 1st Class	Victualling Crew	V
+BARKWORTH, Mr Algernon Henry	Alive	Southampton	1	Man	47	Adult	Male	30	27042	B	Justice of the Peace	1st Class Passenger	1
+BARLOW, Mr Charles	Dead	Southampton	Crew	Man	30	Adult	Male				Fireman	Engineering Crew	E
+BARLOW, Mr George	Dead	Southampton	Crew	Man	36	Adult	Male				Bed Room Steward	Victualling Crew	V
+BARNES, Mr Charles	Dead	Southampton	Crew	Man	29	Adult	Male				Fireman	Engineering Crew	E
+BARNES, Mr Frederick Charles	Dead	Southampton	Crew	Man	39	Adult	Male				Assistant baker	Victualling Crew	V
+BARNES, Mr John	Dead	Southampton	Crew	Man	41	Adult	Male				Fireman	Engineering Crew	E
+BARRATT, Mr Arthur	Dead	Southampton	Crew	Man	15	Adult	Male				Bell Boy	Victualling Crew	V
+BARRETT, Mr Frederick	Alive	Southampton	Crew	Man	28	Adult	Male			13	Leading Fireman	Engineering Crew	E
+BARRETT, Mr Frederick William	Dead	Southampton	Crew	Man	33	Adult	Male				Fireman	Engineering Crew	E
+BARRINGER, Mr Arthur William	Dead	Belfast	Crew	Man	33	Adult	Male				Saloon Steward (1st class)	Victualling Crew	V
+BARROW, Mr Charles Henry John Barrow	Dead	Southampton	Crew	Man	35	Adult	Male				Assistant butcher	Victualling Crew	V
+BARROWS, Mr William	Dead	Southampton	Crew	Man	32	Adult	Male				Saloon Steward	Victualling Crew	V
+BARRY, Miss Julia	Dead	Queenstown	3	Woman	26	Adult	Female	7.87916667	330844		Housekeeper	3rd Class Passenger	3
+BARTON, Mr David John	Dead	Southampton	3	Man	22	Adult	Male	8.05	324669		General Labourer	3rd Class Passenger	3
+BARTON, Mr Sidney John	Dead	Southampton	Crew	Man	26	Adult	Male				3rd Class Steward	Victualling Crew	V
+BASILICO, Sig. Giovanni	Dead	Southampton	Crew	Man	27	Adult	Male				Waiter	Restaurant Staff	R
+BASSANI, Mrs Albina	Alive	Cherbourg	1	Woman	32	Adult	Female	76.2916667		8	Personal Maid		1
+BATEMAN, Fr Robert James	Dead	Southampton	2	Man	51	Adult	Male	12.525	1166	[174]	Priest / Minister	2nd Class Passenger	2
+BAUMANN, Mr John D.	Dead	Cherbourg	1	Man	60	Adult	Male	25.925	17318		Businessman	1st Class Passenger	1
+BAXTER, Mr Harry Ross	Dead	Southampton	Crew	Man	53	Adult	Male				3rd Class Steward	Victualling Crew	V
+BAXTER, Mr Quigg Edmond	Dead	Cherbourg	1	Man	24	Adult	Male	247.520833	17558			1st Class Passenger	1
+BAXTER, Mr Thomas Ferguson	Dead	Southampton	Crew	Man	55	Adult	Male			[235]	Linen Steward (1st class)	Victualling Crew	V
+BAXTER, Mrs Hlne	Alive	Cherbourg	1	Woman	50	Adult	Female	247.520833	17558	6		1st Class Passenger	1
+BAZZI, Sig. Narciso	Dead	Southampton	Crew	Man	33	Adult	Male				Waiter	Restaurant Staff	R
+BEANE, Mr Edward	Alive	Southampton	2	Man	32	Adult	Male	26	2908	13		2nd Class Passenger	2
+BEANE, Mrs Ethel	Alive	Southampton	2	Woman	19	Adult	Female	26	2908	13		2nd Class Passenger	2
+BEATTIE, Mr Joseph	Dead	Belfast	Crew	Man	35	Adult	Male				Greaser	Engineering Crew	E
+BEATTIE, Mr Thomson	Dead	Southampton	1	Man	36	Adult	Male	75.2416667	13050	A[331]	Landowner	1st Class Passenger	1
+BEAUCHAMP, Mr George William	Alive	Southampton	Crew	Man	24	Adult	Male			13	Fireman	Engineering Crew	E
+BEAUCHAMP, Mr Henry James	Dead	Southampton	2	Man	28	Adult	Male	26	244358		Club Head Steward	2nd Class Passenger	2
+BEAVAN, Mr William Thomas	Dead	Southampton	3	Man	20	Adult	Male	8.05	323951		General Labourer	3rd Class Passenger	3
+BECKER, Master Richard F.	Alive	Southampton	2	Child	1	Child	Male	39	230136	11		2nd Class Passenger	2
+BECKER, Miss Marion Louise	Alive	Southampton	2	Child	4	Child	Female	39	230136	11		2nd Class Passenger	2
+BECKER, Miss Ruth Elizabeth	Alive	Southampton	2	Child	12	Child	Female	39	230136	13		2nd Class Passenger	2
+BECKER, Mrs Nellie E.	Alive	Southampton	2	Woman	35	Adult	Female	39	230136	11		2nd Class Passenger	2
+BECKWITH, Mr Richard Leonard	Alive	Southampton	1	Man	37	Adult	Male	52.5541667	11751	5		1st Class Passenger	1
+BECKWITH, Mrs Sallie	Alive	Southampton	1	Woman	46	Adult	Female	52.5541667	11751	5		1st Class Passenger	1
+BEDFORD, Mr William Barnett	Dead	Southampton	Crew	Man	31	Adult	Male				Assistant Roast Cook	Victualling Crew	V
+BEEDEM, Mr George Arthur	Dead	Southampton	Crew	Man	34	Adult	Male				2nd Class Bedroom Steward	Victualling Crew	V
+BEERE, Mr William	Dead	Southampton	Crew	Man	19	Adult	Male				Kitchen Porter	Victualling Crew	V
+BEESLEY, Mr Lawrence	Alive	Southampton	2	Man	34	Adult	Male	13	248698	13	Teacher	2nd Class Passenger	2
+BEHR, Mr Karl Howell	Alive	Cherbourg	1	Man	26	Adult	Male	30	111369	5		1st Class Passenger	1
+BELL, Mr Joseph	Dead	Belfast	Crew	Man	50	Adult	Male				Chief Engineer	Engineering Crew	E
+BENDELL, Mr Frank	Dead	Southampton	Crew	Man	24	Adult	Male				Fireman	Engineering Crew	E
+BENGTSSON, Mr Johan Viktor	Dead	Southampton	3	Man	26	Adult	Male	7.775	347068		General Labourer	3rd Class Passenger	3
+BENHAM, Mr Fred John	Dead	Southampton	Crew	Man	29	Adult	Male				Saloon Steward (2nd class)	Victualling Crew	V
+BENNETT, Mr George Alfred	Dead	Southampton	Crew	Man	30	Adult	Male				Fireman	Engineering Crew	E
+BENNETT, Mrs Mabel	Alive	Southampton	Crew	Woman	33	Adult	Female				Stewardess	Victualling Crew	V
+BENTHAM, Miss Lillian W.	Alive	Southampton	2	Woman	19	Adult	Female	13	28404	12		2nd Class Passenger	2
+BENVILLE, Mr Edward	Dead	Southampton	Crew	Man	47	Adult	Male				Fireman	Engineering Crew	E
+BERGLUND, Mr Karl Ivar Sven	Dead	Southampton	3	Man	22	Adult	Male	9.35	4348		General Labourer	3rd Class Passenger	3
+BERNARDI, Sig. Battista	Dead	Southampton	Crew	Man	22	Adult	Male			[215]	Assistant Waiter	Restaurant Staff	R
+BERRIMAN, Mr William John	Dead	Southampton	2	Man	23	Adult	Male	13	28425			2nd Class Passenger	2
+BESSANT, Mr Edward	Dead	Southampton	Crew	Man	31	Adult	Male				1st class baggage steward	Victualling Crew	V
+BESSANT, Mr William Edward Lowe	Dead	Southampton	Crew	Man	39	Adult	Male				Fireman	Engineering Crew	E
+BESSETTE, Miss Nellie Mayo	Alive	Cherbourg	1	Woman	39	Adult	Female	63.3583333	17760	8	Personal Maid	1st Class PassengerServant	1
+BEST, Mr Edwin Alfred	Dead	Belfast	Crew	Man	38	Adult	Male				Saloon Steward (1st class)	Victualling Crew	V
+BEUX, Mr David	Dead	Southampton	Crew	Man	26	Adult	Male				Assistant Waiter	Restaurant Staff	R
+BEVIS, Mr Joseph Henry	Dead	Southampton	Crew	Man	22	Adult	Male				Trimmer	Engineering Crew	E
+BIDDLECOMBE, Mr Reginald Charles	Dead	Southampton	Crew	Man	31	Adult	Male				Fireman	Engineering Crew	E
+BIDOIS, Miss Rosalie	Alive	Cherbourg	1	Woman	46	Adult	Female	247.525	17757	4	Personal Maid	1st Class PassengerServant	1
+BIETRIX, Mr George Baptiste	Dead	Southampton	Crew	Man	28	Adult	Male				Cook	Restaurant Staff	R
+BIGGS, Mr Edward Charles	Dead	Southampton	Crew	Man	20	Adult	Male				Fireman	Engineering Crew	E
+BILLOWS, Mr James	Dead	Southampton	Crew	Man	20	Adult	Male				Trimmer	Engineering Crew	E
+BING, Mr Lee	Alive	Southampton	3	Man	32	Adult	Male	56.4958333	1601	C	Seaman	3rd Class Passenger	3
+BINSTEAD, Mr Walter William	Alive	Southampton	Crew	Man	20	Adult	Male			3	Trimmer	Engineering Crew	E
+BIRD, Miss Ellen	Alive	Southampton	1	Woman	31	Adult	Female	221.779167	17483	8	Personal Maid	1st Class PassengerServant	1
+BIRKELAND, Mr Hans Martin Monsen	Dead	Southampton	3	Man	21	Adult	Male	7.775	312992		Seaman	3rd Class Passenger	3
+BIRNBAUM, Mr Jakob	Dead	Cherbourg	1	Man	24	Adult	Male	26	13905	[148]		1st Class Passenger	1
+BISHOP, Mr Dickinson H.	Alive	Cherbourg	1	Man	25	Adult	Male	91.0791667	11967	7		1st Class Passenger	1
+BISHOP, Mr Walter Alexander	Dead	Belfast	Crew	Man	33	Adult	Male				1st Class Bedroom Steward	Victualling Crew	V
+BISHOP, Mrs Helen	Alive	Cherbourg	1	Woman	19	Adult	Female	91.0791667	11967	7		1st Class Passenger	1
+BJRKLUND, Mr Ernst Herbert	Dead	Southampton	3	Man	18	Adult	Male	7.75	347090		General Labourer	3rd Class Passenger	3
+BJRNSTRM-STEFFANSSON, Mr Mauritz Hokan	Alive	Southampton	1	Man	28	Adult	Male	26.55	110564	D	Businessman	1st Class Passenger	1
+BLACK, Mr Alexander	Dead	Southampton	Crew	Man	28	Adult	Male				Fireman	Engineering Crew	E
+BLACK, Mr D.	Dead	Southampton	Crew	Man	41	Adult	Male				Fireman	Engineering Crew	E
+BLACKMAN, Mr Albert Edward	Dead	Southampton	Crew	Man	23	Adult	Male				Fireman	Engineering Crew	E
+BLACKWELL, Mr Stephen Weart	Dead	Southampton	1	Man	45	Adult	Male	35.5	113784			1st Class Passenger	1
+BLAKE, Mr Percival Albert	Alive	Southampton	Crew	Man	22	Adult	Male			15	Trimmer	Engineering Crew	E
+BLAKE, Mr Seaton	Dead	Belfast	Crew	Man	26	Adult	Male				Mess Steward	Engineering Crew	E
+BLAKE, Mr Thomas Henry	Dead	Southampton	Crew	Man	36	Adult	Male				Fireman	Engineering Crew	E
+BLANEY, Mr James	Dead	Southampton	Crew	Man	32	Adult	Male				Fireman	Engineering Crew	E
+BLANK, Mr Henry	Alive	Cherbourg	1	Man	39	Adult	Male	31	112277	7	Jeweller	1st Class Passenger	1
+BLANN, Mr Eustace Horatius	Dead	Southampton	Crew	Man	21	Adult	Male				Fireman	Engineering Crew	E
+BLISS, Mrs Emma	Alive	Southampton	Crew	Woman	45	Adult	Female			15	Stewardess	Victualling Crew	V
+BLUMET, Mr Jean Baptiste	Dead	Southampton	Crew	Man	26	Adult	Male				Pantryman	Restaurant Staff	R
+BOCHATAY, Mr Alexis Joseph	Dead	Southampton	Crew	Man	30	Adult	Male				Chef	Victualling Crew	V
+BOCHET, Mr Pierre Giuseppe	Dead	Southampton	Crew	Man	43	Adult	Male				Waiter	Restaurant Staff	R
+BOGIE, Mr Norman Leslie	Dead	Southampton	Crew	Man	59	Adult	Male			[274]	2nd Class Bedroom Steward	Victualling Crew	V
+BOLHUIS, Mr Hendrik	Dead	Southampton	Crew	Man	27	Adult	Male				Larder Cook	Restaurant Staff	R
+BOND, Mr William John	Dead	Belfast	Crew	Man	40	Adult	Male				Bed Room Steward	Victualling Crew	V
+BONNELL, Miss Caroline	Alive	Southampton	1	Woman	30	Adult	Female	164.866667	36928	8		1st Class Passenger	1
+BONNELL, Miss Elizabeth	Alive	Southampton	1	Woman	61	Adult	Female	26.55	113783	8		1st Class Passenger	1
+BOOTHBY, Mr Walter Thomas	Dead	Southampton	Crew	Man	37	Adult	Male			[107]	2nd Class Bedroom Steward	Victualling Crew	V
+BOREBANK, Mr John James	Dead	Southampton	1	Man	42	Adult	Male	26.55	110489		Property Developer / Real Estate	1st Class Passenger	1
+BOSTANDYEFF, Mr Guentcho	Dead	Southampton	3	Man	26	Adult	Male	7.89583333	349224		General Labourer	3rd Class Passenger	3
+BOSTON, Mr William John	Dead	Belfast	Crew	Man	31	Adult	Male				Assistant Deck Steward (1st Class)	Victualling Crew	V
+BOTSFORD, Mr William Hull	Dead	Southampton	2	Man	25	Adult	Male	13	237670			2nd Class Passenger	2
+BOTT, Mr William Thomas	Dead	Southampton	Crew	Man	44	Adult	Male				Greaser	Engineering Crew	E
+BOUGHTON, Mr Bernard John	Dead	Southampton	Crew	Man	24	Adult	Male				First class saloon steward	Victualling Crew	V
+BOULOS, Master Akar	Dead	Cherbourg	3	Child	9	Child	Male	15.2458333	2678			3rd Class Passenger	3
+BOULOS, Miss Nourelain	Dead	Cherbourg	3	Child	7	Child	Female	15.2458333	2678			3rd Class Passenger	3
+BOULOS, Mrs Sultana	Dead	Cherbourg	3	Woman	40	Adult	Female	15.2458333	2678			3rd Class Passenger	3
+BOURKE, Miss Mary	Dead	Queenstown	3	Woman	40	Adult	Female	7.75	364848			3rd Class Passenger	3
+BOURKE, Mr John	Dead	Queenstown	3	Man	42	Adult	Male	15.5	364849		Farmer	3rd Class Passenger	3
+BOURKE, Mrs Catherine	Dead	Queenstown	3	Woman	32	Adult	Female	15.5	364849		Housewife	3rd Class Passenger	3
+BOWEN, Miss Grace Scott	Alive	Cherbourg	1	Woman	45	Adult	Female	262.375	17608	4	Governess	1st Class PassengerServant	1
+BOWEN, Mr David John 'Dai'	Dead	Southampton	3	Man	26	Adult	Male	16.1	54636		Pugilist	3rd Class Passenger	3
+BOWENUR, Mr Solomon	Dead	Southampton	2	Man	42	Adult	Male	13	211535		Merchant	2nd Class Passenger	2
+BOWERMAN, Miss Elsie Edith	Alive	Southampton	1	Woman	22	Adult	Female	55	113505	6		1st Class Passenger	1
+BOWKER, Miss Ruth	Alive	Southampton	Crew	Woman	27	Adult	Female				Cashier	Restaurant Staff	R
+BOXHALL, Mr Joseph Groves	Alive	Belfast	Crew	Man	28	Adult	Male			2	4th. Officer	Deck CrewTitanic Officers	D
+BOYD, Mr John	Dead	Southampton	Crew	Man	36	Adult	Male				Saloon Steward (1st class)	Victualling Crew	V
+BOYES, Mr John Henry	Dead	Belfast	Crew	Man	36	Adult	Male				Saloon Steward (1st class)	Victualling Crew	V
+BRACKEN, Mr James H.	Dead	Southampton	2	Man	29	Adult	Male	13	220367		Stockman	2nd Class Passenger	2
+BRADLEY, Miss Bridget Delia	Alive	Queenstown	3	Woman	22	Adult	Female	7.725	334914	13		3rd Class Passenger	3
+BRADLEY, Mr Patrick Joseph	Dead	Southampton	Crew	Man	39	Adult	Male				Fireman	Engineering Crew	E
+BRADLEY, Mr T.	Dead	Southampton	Crew	Man	29	Adult	Male				Able Seaman	Deck Crew	D
+BRADSHAW, Mr John Albert Perkin	Dead	Southampton	Crew	Man	43	Adult	Male				Plate Steward (1st Class)	Victualling Crew	V
+BRADY, Mr John Bertram	Dead	Southampton	1	Man	41	Adult	Male	30.5	113054			1st Class Passenger	1
+BRAF, Miss Elin Ester Maria	Dead	Southampton	3	Woman	20	Adult	Female	7.85416667	347471		Servant	3rd Class Passenger	3
+BRAILEY, Mr William Theodore Ronald	Dead	Southampton	2	Man	24	Adult	Male	0	250654		Musician	2nd Class PassengerMusician	2
+BRANDEIS, Mr Emil	Dead	Cherbourg	1	Man	48	Adult	Male	50.4958333	17591	[208]		1st Class Passenger	1
+BRAUND, Mr Lewis Richard	Dead	Southampton	3	Man	29	Adult	Male	7	3460		Farm Labourer	3rd Class Passenger	3
+BRAUND, Mr Owen Harris	Dead	Southampton	3	Man	22	Adult	Male	7.25	21171		Ironmonger	3rd Class Passenger	3
+BRERETON, Mr George Andrew	Alive	Southampton	1	Man	37	Adult	Male	26.55	111427	9		1st Class Passenger	1
+BREWE, Dr Arthur Jackson	Dead	Cherbourg	1	Man	45	Adult	Male	39.6	112379			1st Class Passenger	1
+BREWER, Mr Harry	Dead	Southampton	Crew	Man	30	Adult	Male				Trimmer		E
+BREWSTER, Mr George Henry	Dead	Belfast	Crew	Man	48	Adult	Male				Bedroom Steward (1st Class)	Victualling Crew	V
+BRIANT, Mr Albert	Dead	Southampton	Crew	Man	34	Adult	Male				Greaser	Engineering Crew	E
+BRICE, Mr Walter Thomas	Alive	Southampton	Crew	Man	42	Adult	Male			11	Able Seaman	Deck Crew	D
+BRICOUX, Mr Roger Marie	Dead	Southampton	2	Man	20	Adult	Male	0	250654		Musician	2nd Class PassengerMusician	2
+BRIDE, Mr Harold Sydney	Alive	Belfast	Crew	Man	22	Adult	Male			B	Assistant Telegraphist	Victualling Crew	V
+BRIGHT, Mr Arthur John	Alive	Belfast	Crew	Man	42	Adult	Male			D	Quartermaster	Deck Crew	D
+BRISTOW, Mr Harry	Dead	Southampton	Crew	Man	33	Adult	Male				Saloon Steward	Victualling Crew	V
+BRISTOW, Mr Robert Charles	Dead	Southampton	Crew	Man	31	Adult	Male			[290]	3rd Class Steward	Victualling Crew	V
+BRITO, Mr Jos Joaquim de	Dead	Southampton	2	Man	32	Adult	Male	13	244360			2nd Class Passenger	2
+BROBECK, Mr Karl Rudolf	Dead	Southampton	3	Man	22	Adult	Male	7.79583333	350045		Farm Labourer	3rd Class Passenger	3
+BROCKLEBANK, Mr William Alfred	Dead	Southampton	3	Man	35	Adult	Male	8.05	364512		Groom	3rd Class Passenger	3
+BROOKMAN, Mr John Cress	Dead	Southampton	Crew	Man	27	Adult	Male				3rd Class Steward	Victualling Crew	V
+BROOKS, Mr J.	Dead	Southampton	Crew	Man	25	Adult	Male				Trimmer	Engineering Crew	E
+BROOM, Mr Herbert George	Dead	Belfast	Crew	Man	33	Adult	Male				Bath Steward	Victualling Crew	V
+BROOME, Mr Athol Frederick	Dead	Southampton	Crew	Man	30	Adult	Male				Verandah Steward (1st Class)	Victualling Crew	V
+BROWN, Miss Amelia Mary	Alive	Southampton	2	Woman	18	Adult	Female	13	248733	11	Cook (Personal)	2nd Class PassengerServant	2
+BROWN, Miss Edith Eileen	Alive	Southampton	2	Woman	15	Adult	Female	39	29750	14	Scholar	2nd Class Passenger	2
+BROWN, Mr Edward	Alive	Belfast	Crew	Man	34	Adult	Male				Saloon Steward	Victualling Crew	V
+BROWN, Mr John	Dead	Southampton	Crew	Man	25	Adult	Male			[267]	Fireman	Engineering Crew	E
+BROWN, Mr Joseph James	Dead	Southampton	Crew	Man	25	Adult	Male				Fireman	Engineering Crew	E
+BROWN, Mr Thomas William Solomon	Dead	Southampton	2	Man	60	Adult	Male	39	29750		Hotelier	2nd Class Passenger	2
+BROWN, Mr Walter James	Dead	Belfast	Crew	Man	40	Adult	Male				Saloon Steward (1st class)	Victualling Crew	V
+BROWN, Mrs Caroline Lane	Alive	Southampton	1	Woman	59	Adult	Female	51.4791667	11769	D		1st Class Passenger	1
+BROWN, Mrs Elizabeth Catherine	Alive	Southampton	2	Woman	40	Adult	Female	39	29750	14		2nd Class Passenger	2
+BROWN, Mrs Margaret	Alive	Cherbourg	1	Woman	44	Adult	Female	27.7208333	17610	6		1st Class Passenger	1
+BRYHL, Miss Dagmar Jenny Ingeborg	Alive	Southampton	2	Woman	20	Adult	Female	26	236853	12		2nd Class Passenger	2
+BRYHL, Mr Kurt Arnold Gottfrid	Dead	Southampton	2	Man	25	Adult	Male	26	236853			2nd Class Passenger	2
+BUCKLEY, Miss Katherine	Dead	Queenstown	3	Woman	22	Adult	Female	7.28333333	329944	[299]		3rd Class Passenger	3
+BUCKLEY, Mr Daniel	Alive	Queenstown	3	Man	21	Adult	Male	7.82083333	330920	13	Farm Labourer	3rd Class Passenger	3
+BUCKLEY, Mr H. E.	Dead	Southampton	Crew	Man	34	Adult	Male				Assistant Vegetable Cook	Victualling Crew	V
+BUCKNELL, Mrs Emma Eliza	Alive	Cherbourg	1	Woman	58	Adult	Female	76.2916667	11813	8		1st Class Passenger	1
+BULEY, Mr Edward John	Alive	Southampton	Crew	Man	26	Adult	Male			10	Able Seaman	Deck Crew	D
+BULL, Mr W.	Dead	Southampton	Crew	Man	30	Adult	Male				Scullion	Victualling Crew	V
+BULLEY, Mr Henry Ashburnham	Dead	Southampton	Crew	Man	21	Adult	Male				Boots Steward (2nd class)	Victualling Crew	V
+BUNNELL, Mr Wilfred James	Dead	Belfast	Crew	Man	20	Adult	Male				Plate Steward	Victualling Crew	V
+BURGESS, Mr Charles	Alive	Southampton	Crew	Man	18	Adult	Male				Extra 3rd. Baker	Victualling Crew	V
+BURKE, Mr Jeremiah	Dead	Queenstown	3	Man	19	Adult	Male	6.75	365222		Farm Labourer	3rd Class Passenger	3
+BURKE, Mr Richard Edward	Dead	Belfast	Crew	Man	30	Adult	Male				Lounge Steward (1st class)	Victualling Crew	V
+BURKE, Mr William	Alive	Belfast	Crew	Man	31	Adult	Male				Saloon Steward	Victualling Crew	V
+BURNS, Miss Elizabeth Margaret	Alive	Cherbourg	1	Woman	41	Adult	Female	134.5	16966	3	Nursemaid	1st Class PassengerServant	1
+BURNS, Miss Mary Delia	Dead	Queenstown	3	Woman	17	Adult	Female	7.87916667	330963			3rd Class Passenger	3
+BURR, Mr Ewart Sydenham	Dead	Southampton	Crew	Man	29	Adult	Male				Saloon Steward (1st class)	Victualling Crew	V
+BURRAGE, Mr Arthur Victor Edwards	Alive	Southampton	Crew	Man	20	Adult	Male			13	Plate Steward	Victualling Crew	V
+BURROUGHS, Mr Arthur Peckham	Dead	Southampton	Crew	Man	35	Adult	Male				Fireman	Engineering Crew	E
+BURTON, Mr Edward John	Dead	Southampton	Crew	Man	35	Adult	Male				Fireman	Engineering Crew	E
+BUSS, Miss Kate	Alive	Southampton	2	Woman	36	Adult	Female	13	27849	9		2nd Class Passenger	2
+BUTLER, Mr Reginald Fenton	Dead	Southampton	2	Man	25	Adult	Male	13	234686	[97]	Mechanical Engineer	2nd Class Passenger	2
+BUTRUS-KA'Wi, Mr Tannus	Dead	Cherbourg	3	Man	21	Adult	Male	7.22916667			Shoemaker		3
+BUTT, Major Archibald Willingham	Dead	Southampton	1	Man	46	Adult	Male	26.55	113050		Military	1st Class Passenger	1
+BUTT, Mr Robert Henry	Dead	Southampton	Crew	Man	21	Adult	Male			[10]	Saloon Steward	Victualling Crew	V
+BUTT, Mr William John	Dead	Southampton	Crew	Man	30	Adult	Male			[77]	Fireman	Engineering Crew	E
+BUTTERWORTH, Mr John	Dead	Southampton	Crew	Man	23	Adult	Male			[116]	Saloon Steward	Victualling Crew	V
+BYLES, Fr Thomas Roussel Davids	Dead	Southampton	2	Man	42	Adult	Male	13	244310		Priest / Minister	2nd Class Passenger	2
+BYRNE, Mr James Edward	Dead	Southampton	Crew	Man	38	Adult	Male				Bedroom Steward (2nd Class)	Victualling Crew	V
+BYSTRM, Mrs Karolina	Alive	Southampton	2	Woman	40	Adult	Female	13	236852			2nd Class Passenger	2
+CACIC, Miss Manda	Dead	Southampton	3	Woman	21	Adult	Female	8.6625	315087		Farm Labourer	3rd Class Passenger	3
+CACIC, Miss Marija	Dead	Southampton	3	Woman	30	Adult	Female	8.6625	315084		Farm Labourer	3rd Class Passenger	3
+CACIC, Mr Jego Grga	Dead	Southampton	3	Man	18	Adult	Male	8.6625	315091		Farmer	3rd Class Passenger	3
+CACIC, Mr Luka	Dead	Southampton	3	Man	38	Adult	Male	8.6625	315089		Farmer	3rd Class Passenger	3
+CAIRNS, Mr Alexander Milne	Dead	Southampton	1	Man	28	Adult	Male	31	113798		Servant	1st Class PassengerServant	1
+CALDERHEAD, Mr Edward Pennington	Alive	Southampton	1	Man	42	Adult	Male	26.2875	17476	5		1st Class Passenger	1
+CALDERWOOD, Mr Hugh	Dead	Belfast	Crew	Man	30	Adult	Male				Trimmer	Engineering Crew	E
+CALDWELL, Master Alden Gates	Alive	Southampton	2	Child	0.83	Child	Male	29	248738	13		2nd Class Passenger	2
+CALDWELL, Mr Albert Francis	Alive	Southampton	2	Man	26	Adult	Male	29	248738	13		2nd Class Passenger	2
+CALDWELL, Mrs Sylvia Mae	Alive	Southampton	2	Woman	28	Adult	Female	29	248738	13		2nd Class Passenger	2
+CALIC, Mr Jovo	Dead	Southampton	3	Man	17	Adult	Male	8.6625	315093			3rd Class Passenger	3
+CALIC, Mr Petar	Dead	Southampton	3	Man	17	Adult	Male	8.6625	315086		Farm Labourer	3rd Class Passenger	3
+CAMERON, Miss Clear Annie	Alive	Southampton	2	Woman	35	Adult	Female	21	13528	14	Personal Maid	2nd Class Passenger	2
+CAMPBELL, Mr Donald S.	Dead	Southampton	Crew	Man	25	Adult	Male				3rd Class Clerk	Victualling Crew	V
+CAMPBELL, Mr William Henry	Dead	Belfast	2	Man	21	Adult	Male	0	239853			2nd Class PassengerH&W Guarantee Group	2
+CANAVAN, Miss Mary	Dead	Queenstown	3	Woman	22	Adult	Female	7.75	364846			3rd Class Passenger	3
+CANAVAN, Mr Patrick	Dead	Queenstown	3	Man	21	Adult	Male	7.75	364858		General Labourer	3rd Class Passenger	3
+CANDEE, Mrs Helen Churchill	Alive	Cherbourg	1	Woman	52	Adult	Female	27.4458333	17606	6		1st Class Passenger	1
+CANN, Mr Ernest	Dead	Southampton	3	Man	21	Adult	Male	8.05			Miner		3
+CANNER, Mr John	Dead	Southampton	Crew	Man	39	Adult	Male				Fireman	Engineering Crew	E
+CARAM, Mr Joseph	Dead	Cherbourg	3	Man	28	Adult	Male	14.4583333	2689		Merchant	3rd Class Passenger	3
+CARAM, Mrs Maria Elias	Dead	Cherbourg	3	Woman	18	Adult	Female	14.4583333	2689		Housekeeper	3rd Class Passenger	3
+CARBINES, Mr William	Dead	Southampton	2	Man	19	Adult	Male	13	28424	[18]	Miner	2nd Class Passenger	2
+CARDEZA, Mr Thomas Drake Martinez	Alive	Cherbourg	1	Man	36	Adult	Male	512.329167	17755	3	Gentleman	1st Class Passenger	1
+CARDEZA, Mrs Charlotte Wardle	Alive	Cherbourg	1	Woman	58	Adult	Female	512.329167	17755	3		1st Class Passenger	1
+CARLSSON, Mr August Sigfrid	Dead	Southampton	3	Man	28	Adult	Male	7.79583333	350042		Farmer	3rd Class Passenger	3
+CARLSSON, Mr Carl Robert	Dead	Southampton	3	Man	24	Adult	Male	7.85416667	350409		General Labourer	3rd Class Passenger	3
+CARLSSON, Mr Frans Olof	Dead	Southampton	1	Man	33	Adult	Male	5	695			1st Class Passenger	1
+CARNEY, Mr William	Dead	Southampton	Crew	Man	31	Adult	Male			[251]	Lift Steward	Victualling Crew	V
+CARR, Miss Jane	Dead	Queenstown	3	Woman	45	Adult	Female	7.75	368364			3rd Class Passenger	3
+CARR, Mr Richard Stephen	Dead	Southampton	Crew	Man	37	Adult	Male				Trimmer	Engineering Crew	E
+CARRA-ESTEVES, Mr Jos Pedro	Dead	Southampton	1	Man	17	Adult	Male	47.1	113059			1st Class Passenger	1
+CARRAU, Mr Francisco Mauro Severiano	Dead	Southampton	1	Man	27	Adult	Male	47.1	113059			1st Class Passenger	1
+CARTER (BALL), Mr James (W.)	Dead	Southampton	Crew	Man	46	Adult	Male				Fireman	Engineering Crew	E
+CARTER, Fr Ernest Courtenay	Dead	Southampton	2	Man	54	Adult	Male	26	244252		Priest / Minister	2nd Class Passenger	2
+CARTER, Master William Thornton II	Alive	Southampton	1	Child	11	Child	Male	120	113760	4		1st Class Passenger	1
+CARTER, Miss Lucile Polk	Alive	Southampton	1	Child	13	Child	Female	120	113760	4		1st Class Passenger	1
+CARTER, Mr William Ernest	Alive	Southampton	1	Man	36	Adult	Male	120	113760	C		1st Class Passenger	1
+CARTER, Mrs Lilian	Dead	Southampton	2	Woman	45	Adult	Female	26	244252			2nd Class Passenger	2
+CARTER, Mrs Lucile	Alive	Southampton	1	Woman	36	Adult	Female	120	113760	4		1st Class Passenger	1
+CARTWRIGHT, Mr James Edward	Dead	Belfast	Crew	Man	32	Adult	Male			[320]	Saloon Steward	Victualling Crew	V
+CARVER, Mr Alfred John	Dead	Southampton	3	Man	28	Adult	Male	7.25	370160		Seaman	3rd Class Passenger	3
+CASALI, Sig. Giulio	Dead	Southampton	Crew	Man	32	Adult	Male				Waiter	Restaurant Staff	R
+CASE, Mr Howard Brown	Dead	Southampton	1	Man	49	Adult	Male	26	19924			1st Class Passenger	1
+CASEY, Mr Thomas	Dead	Southampton	Crew	Man	28	Adult	Male				Trimmer	Engineering Crew	E
+CASSEBEER, Mrs Eleanor Genevieve	Alive	Cherbourg	1	Woman	36	Adult	Female	27.7208333	17770	5		1st Class Passenger	1
+CASSWILL, Mr Charles	Dead	Southampton	Crew	Man	34	Adult	Male				Saloon Steward	Victualling Crew	V
+CASTLEMAN, Mr Edward	Dead	Southampton	Crew	Man	37	Adult	Male				Greaser	Engineering Crew	E
+CATON, Miss Annie	Alive	Southampton	Crew	Woman	33	Adult	Female			11	Turkish Bath Stewardess	Victualling Crew	V
+CAUNT, Mr William Ewart	Dead	Southampton	Crew	Man	27	Adult	Male				Grill Cook	Victualling Crew	V
+CAVE, Mr Herbert	Dead	Belfast	Crew	Man	39	Adult	Male			[218]	Saloon Steward (1st class)	Victualling Crew	V
+CAVELL, Mr George Henry	Alive	Southampton	Crew	Man	22	Adult	Male			15	Trimmer	Engineering Crew	E
+CAVENDISH, Mr Tyrell William	Dead	Southampton	1	Man	36	Adult	Male	78.85	19877	[172]		1st Class Passenger	1
+CAVENDISH, Mrs Julia Florence	Alive	Southampton	1	Woman	25	Adult	Female	78.85	19877	6		1st Class Passenger	1
+CECIL, Mr Charles Thomas	Dead	Southampton	Crew	Man	21	Adult	Male				Steward	Victualling Crew	V
+CELOTTI, Mr Francesco	Dead	Southampton	3	Man	24	Adult	Male	8.05	343275		Stoker	3rd Class Passenger	3
+CHABOISSON, Mr Adrien Finnin	Dead	Southampton	Crew	Man	25	Adult	Male				Roast Cook	Restaurant Staff	R
+CHAFFEE, Mr Herbert Fuller	Dead	Southampton	1	Man	46	Adult	Male	61.175	5734			1st Class Passenger	1
+CHAFFEE, Mrs Carrie Constance	Alive	Southampton	1	Woman	47	Adult	Female	61.175	5734	4		1st Class Passenger	1
+CHAMBERS, Mr Norman Campbell	Alive	Southampton	1	Man	27	Adult	Male	53.1	113806	5		1st Class Passenger	1
+CHAMBERS, Mrs Bertha	Alive	Southampton	1	Woman	32	Adult	Female	53.1	113806	5		1st Class Passenger	1
+CHAPMAN, Mr Charles Henry	Dead	Southampton	2	Man	52	Adult	Male	13.5	248731	[130]		2nd Class Passenger	2
+CHAPMAN, Mr John Henry	Dead	Southampton	2	Man	36	Adult	Male	26	29037	[17]	Farmer	2nd Class Passenger	2
+CHAPMAN, Mr Joseph Charles	Alive	Southampton	Crew	Man	32	Adult	Male			9	Boots steward, 2nd class	Victualling Crew	V
+CHAPMAN, Mrs Sara Elizabeth	Dead	Southampton	2	Woman	28	Adult	Female	26	29037			2nd Class Passenger	2
+CHARMAN, Mr John James	Dead	Southampton	Crew	Man	25	Adult	Male				Saloon Steward (2nd class)	Victualling Crew	V
+CHARTERS, Mr David	Dead	Queenstown	3	Man	20	Adult	Male	7.73333333	13032		General Labourer	3rd Class Passenger	3
+CHAUDANSON, Miss Victorine	Alive	Cherbourg	1	Woman	36	Adult	Female	262.375	17608	4	Personal Maid	1st Class PassengerServant	1
+CHERRETT, Mr William Victor	Dead	Southampton	Crew	Man	24	Adult	Male				Fireman	Engineering Crew	E
+CHERRY, Miss Gladys	Alive	Southampton	1	Woman	30	Adult	Female	86.5	110152	8	Of Independent Means	1st Class Passenger	1
+CHEVERTON, Mr William Frederick	Dead	Belfast	Crew	Man	27	Adult	Male			[334]	Saloon Steward (1st class)	Victualling Crew	V
+CHEVR, Mr Paul Romaine Marie Lonce	Alive	Cherbourg	1	Man	45	Adult	Male	29.7	17594	7	Sculptor	1st Class Passenger	1
+CHIBNALL, Mrs Edith Martha Bowerman	Alive	Southampton	1	Woman	48	Adult	Female	55	113505	6	Of Independent Means	1st Class Passenger	1
+CHIP, Mr Chang	Alive	Southampton	3	Man	32	Adult	Male	56.4958333	1601	C	Seaman	3rd Class Passenger	3
+CHISHOLM, Mr Roderick Robert Crispin	Dead	Belfast	1	Man	43	Adult	Male	0	112051		Draughtsman	1st Class PassengerH&W Guarantee Group	1
+CHISNALL, Mr George Alexander	Dead	Belfast	Crew	Man	36	Adult	Male			[111]	Boilermaker	Engineering Crew	E
+CHITTY, Mr Archibald George	Dead	Southampton	Crew	Man	28	Adult	Male				Third Class Steward	Victualling Crew	V
+CHITTY, Mr George Henry	Dead	Southampton	Crew	Man	50	Adult	Male				Baker	Victualling Crew	V
+CHORLEY, Mr John Henry	Dead	Southampton	Crew	Man	25	Adult	Male				Fireman	Engineering Crew	E
+CHRISTMANN, Mr Emil	Dead	Southampton	3	Man	29	Adult	Male	8.05	343276		Clerk	3rd Class Passenger	3
+CHRISTMAS, Mr Herbert Harry	Dead	Southampton	Crew	Man	33	Adult	Male				Assistant Saloon Steward (2nd class)	Victualling Crew	V
+CHRISTY, Miss Rachel Juli Cohen	Alive	Southampton	2	Woman	25	Adult	Female	30	237789	12		2nd Class Passenger	2
+CHRISTY, Mrs Alice Frances	Alive	Southampton	2	Woman	45	Adult	Female	30	237789	12		2nd Class Passenger	2
+CHRONOPOULOS, Mr Apostolos M.	Dead	Cherbourg	3	Man	26	Adult	Male	14.4541667	2680		General Labourer	3rd Class Passenger	3
+CHRONOPOULOS, Mr Dimitrios M.	Dead	Cherbourg	3	Man	21	Adult	Male	14.4541667	2680		General Labourer	3rd Class Passenger	3
+CLARK, Mr Walter Miller	Dead	Cherbourg	1	Man	27	Adult	Male	136.779167	13508			1st Class Passenger	1
+CLARK, Mr William	Alive	Southampton	Crew	Man	39	Adult	Male				Fireman	Engineering Crew	E
+CLARK, Mrs Virginia Estelle	Alive	Cherbourg	1	Woman	26	Adult	Female	136.779167	13508	4		1st Class Passenger	1
+CLARKE, Mr Charles Valentine	Dead	Southampton	2	Man	29	Adult	Male	26	2003		Dairy Worker	2nd Class Passenger	2
+CLARKE, Mr John Frederick Preston	Dead	Southampton	2	Man	28	Adult	Male	0	250654	[202]	Musician	2nd Class PassengerMusician	2
+CLARKE, Mrs Ada Maria	Alive	Southampton	2	Woman	28	Adult	Female	27	2003	14		2nd Class Passenger	2
+CLEAVER, Miss Alice Catherine	Alive	Southampton	1	Woman	22	Adult	Female	151.8	113781	11	Nursemaid	1st Class PassengerServant	1
+CLENCH, Mr Frederick Charles	Alive	Southampton	Crew	Man	33	Adult	Male			12	Able Seaman	Deck Crew	D
+CLENCH, Mr George James	Dead	Southampton	Crew	Man	31	Adult	Male				Able Seaman	Deck Crew	D
+CLIFFORD, Mr George Quincy	Dead	Southampton	1	Man	40	Adult	Male	52	110465			1st Class Passenger	1
+COE, Mr Harry	Dead	Southampton	Crew	Man	21	Adult	Male				Trimmer	Engineering Crew	E
+COELHO, Mr Domingos Fernandeo	Dead	Southampton	3	Man	20	Adult	Male	7.05	3101307		General Labourer	3rd Class Passenger	3
+COHEN, Mr Gurshon Gus	Alive	Southampton	3	Man	18	Adult	Male	8.05		12	Printer / Compositor		3
+COLBERT, Mr Patrick	Dead	Queenstown	3	Man	24	Adult	Male	7.25	371109		General Labourer	3rd Class Passenger	3
+COLEFF, Mr Satio	Dead	Southampton	3	Man	24	Adult	Male	7.89583333	349209		General Labourer	3rd Class Passenger	3
+COLEMAN, Mr Albert Edward	Dead	Southampton	Crew	Man	28	Adult	Male				Saloon Steward (1st class)	Victualling Crew	V
+COLEMAN, Mr John	Dead	Belfast	Crew	Man	57	Adult	Male				Engineers' Mess steward	Engineering Crew	E
+COLERIDGE, Mr Reginald Charles	Dead	Southampton	2	Man	29	Adult	Male	10.5	14263		Advertising Consultant	2nd Class Passenger	2
+COLGAN, Mr E. Joseph	Alive	Southampton	Crew	Man	33	Adult	Male				Scullion	Victualling Crew	V
+COLLANDER, Mr Erik Gustaf	Dead	Southampton	2	Man	27	Adult	Male	13	248740			2nd Class Passenger	2
+COLLETT, Mr Sidney Clarence Stuart	Alive	Southampton	2	Man	25	Adult	Male	10.5	28034	9		2nd Class Passenger	2
+COLLEY, Mr Edward Pomeroy	Dead	Southampton	1	Man	37	Adult	Male	25.5875	5727			1st Class Passenger	1
+COLLINS, Mr John	Alive	Southampton	Crew	Man	17	Adult	Male			1	Fireman	Victualling Crew	V
+COLLINS, Mr John	Alive	Southampton	Crew	Man	38	Adult	Male			B	Scullion	Engineering Crew	E
+COLLYER, Miss Marjorie Charlotte	Alive	Southampton	2	Child	8	Child	Female	26.25	31921	14		2nd Class Passenger	2
+COLLYER, Mr Harvey	Dead	Southampton	2	Man	31	Adult	Male	26.25	31921		Grocer	2nd Class Passenger	2
+COLLYER, Mrs Charlotte Annie	Alive	Southampton	2	Woman	31	Adult	Female	26.25	31921	14		2nd Class Passenger	2
+COLTCHEFF, Mr Peju	Dead	Southampton	3	Man	36	Adult	Male	7.89583333	349210		General Labourer	3rd Class Passenger	3
+COMBES, Mr George	Alive	Southampton	Crew	Man	34	Adult	Male			3	Fireman	Engineering Crew	E
+COMPTON, Miss Sara Rebecca	Alive	Cherbourg	1	Woman	39	Adult	Female	83.1583333	17756	14		1st Class Passenger	1
+COMPTON, Mr Alexander Taylor jr	Dead	Cherbourg	1	Man	37	Adult	Male	83.1583333	17756			1st Class Passenger	1
+COMPTON, Mrs Mary Eliza	Alive	Cherbourg	1	Woman	64	Adult	Female	83.1583333	17756	14		1st Class Passenger	1
+CONLIN, Mr Thomas Henry	Dead	Queenstown	3	Man	31	Adult	Male	7.73333333	21332		General Labourer	3rd Class Passenger	3
+CONNAGHTON, Mr Michael	Dead	Queenstown	3	Man	31	Adult	Male	7.75	335097		Farm Labourer	3rd Class Passenger	3
+CONNOLLY, Miss Catherine	Alive	Queenstown	3	Woman	23	Adult	Female	7.75		13			3
+CONNOLLY, Miss Kate	Dead	Queenstown	3	Woman	41	Adult	Female	7.75	370373			3rd Class Passenger	3
+CONNORS, Mr Patrick	Dead	Queenstown	3	Man	66	Adult	Male	7.75	370369	[171]	Farm Labourer	3rd Class Passenger	3
+CONWAY, Mr Percy Walter	Dead	Belfast	Crew	Man	24	Adult	Male				Saloon Steward (2nd class)	Victualling Crew	V
+COOK, Mr George	Dead	Southampton	Crew	Man	32	Adult	Male				Saloon Steward	Victualling Crew	V
+COOK, Mr Jacob	Dead	Southampton	3	Man	43	Adult	Male	8.05	3536		Wood Carver	3rd Class Passenger	3
+COOK, Mrs Selena	Alive	Southampton	2	Woman	22	Adult	Female	10.5	14266	14		2nd Class Passenger	2
+COOMBS, Mr Charles Augustus	Dead	Southampton	Crew	Man	44	Adult	Male				Assistant Cook	Victualling Crew	V
+COOPER, Mr Harry	Dead	Southampton	Crew	Man	26	Adult	Male				Fireman	Engineering Crew	E
+COOPER, Mr James Edward	Dead	Southampton	Crew	Man	25	Adult	Male				Trimmer	Engineering Crew	E
+COPPERTHWAITE, Mr Albert Harry	Dead	Southampton	Crew	Man	22	Adult	Male				Fireman	Engineering Crew	E
+COR, Mr Bartol	Dead	Southampton	3	Man	35	Adult	Male	7.89583333	349230		General Labourer	3rd Class Passenger	3
+COR, Mr Ivan	Dead	Southampton	3	Man	27	Adult	Male	7.89583333	349229		General Labourer	3rd Class Passenger	3
+COR, Mr Liudevit	Dead	Southampton	3	Man	19	Adult	Male	7.89583333	349231		General Labourer	3rd Class Passenger	3
+CORBEN, Mr Ernest Theodore	Dead	Southampton	Crew	Man	27	Adult	Male				Assistant Printer Steward	Victualling Crew	V
+CORBETT, Mrs Irene	Dead	Southampton	2	Woman	30	Adult	Female	13	237249		Musician	2nd Class Passenger	2
+CORCORAN, Mr Denny	Dead	Southampton	Crew	Man	33	Adult	Male				Fireman	Engineering Crew	E
+COREY, Mrs Mary Emma	Dead	Southampton	2	Woman	30	Adult	Female	1.05					2
+CORN, Mr Harry	Dead	Southampton	3	Man	30	Adult	Male	8.05	392090		Upholsterer	3rd Class Passenger	3
+CORNAIRE, Mr Marcel Raymond Andr	Dead	Southampton	Crew	Man	19	Adult	Male				Assistant Roast Cook	Restaurant Staff	R
+CORNELL, Mrs Malvina Helen	Alive	Southampton	1	Woman	55	Adult	Female	25.7416667	11770	2		1st Class Passenger	1
+CORR, Miss Helen	Alive	Queenstown	3	Woman	16	Adult	Female	7.75	367231	16		3rd Class Passenger	3
+COTTERILL, Mr Henry Harry	Dead	Southampton	2	Man	20	Adult	Male	11.5			Carpenter / Joiner		2
+COTTON, Mr Alfred	Dead	Southampton	Crew	Man	35	Adult	Male				Trimmer		E
+COUCH, Mr Frank	Dead	Southampton	Crew	Man	28	Adult	Male			[253]	Able Seaman	Deck Crew	D
+COUCH, Mr Joseph Henry	Dead	Southampton	Crew	Man	49	Adult	Male				Greaser	Engineering Crew	E
+COUPER, Mr Robert Frederick William	Alive	Southampton	Crew	Man	29	Adult	Male			3	Fireman	Engineering Crew	E
+COUTIN, Mr Auguste Louis	Dead	Southampton	Crew	Man	28	Adult	Male				Entre Cook	Restaurant Staff	R
+COUTTS, Master Neville Leslie	Alive	Southampton	3	Child	3	Child	Male	15.9	37671	2		3rd Class Passenger	3
+COUTTS, Master William Loch Willie	Alive	Southampton	3	Child	9	Child	Male	15.9		2			3
+COUTTS, Mrs Winnie Minnie	Alive	Southampton	3	Woman	36	Adult	Female	15.9		2			3
+COX, Mr William Denton	Dead	Southampton	Crew	Man	29	Adult	Male			[300]	Third class steward	Victualling Crew	V
+COXON, Mr Daniel	Dead	Southampton	3	Man	59	Adult	Male	7.25	364500		Dealer	3rd Class Passenger	3
+COY, Mr Francis Ernest George	Dead	Belfast	Crew	Man	26	Adult	Male				Junior Assistant 3rd. Engineer	Engineering Crew	E
+CRABB, Mr Henry James	Dead	Southampton	Crew	Man	23	Adult	Male				Trimmer	Engineering Crew	E
+CRAFTER, Mr Frederick Horace	Alive	Southampton	Crew	Man	20	Adult	Male			15	Saloon Steward (1st class)	Victualling Crew	V
+CRAFTON, Mr John Bertram	Dead	Southampton	1	Man	59	Adult	Male	26.55	113791		Businessman	1st Class Passenger	1
+CRAWFORD, Mr Alfred George	Alive	Belfast	Crew	Man	43	Adult	Male			8	Bed Room Steward	Victualling Crew	V
+CREASE, Mr Ernest James	Dead	Southampton	3	Man	19	Adult	Male	8.15833333	3464		Tinsmith	3rd Class Passenger	3
+CREESE, Mr Henry Philip	Dead	Belfast	Crew	Man	44	Adult	Male				Deck Engineer	Engineering Crew	E
+CRIBB, Miss Laura Mae	Alive	Southampton	3	Woman	16	Adult	Female	16.1	371362	12	Shop Assistant	3rd Class Passenger	3
+CRIBB, Mr John Hatfield	Dead	Southampton	3	Man	44	Adult	Male	16.1	371362		Butler	3rd Class Passenger	3
+CRIMMINS, Mr James	Alive	Southampton	Crew	Man	21	Adult	Male			13	Fireman	Engineering Crew	E
+CRISP, Mr Albert Hector	Dead	Belfast	Crew	Man	39	Adult	Male				Saloon Steward	Victualling Crew	V
+CRISPIN, Mr William	Dead	Southampton	Crew	Man	32	Adult	Male				Glory Hole Steward	Victualling Crew	V
+CROSBIE, Mr John Borthwick	Dead	Southampton	Crew	Man	44	Adult	Male				Turkish Bath Attendant	Victualling Crew	V
+CROSBY, Captain Edward Gifford	Dead	Southampton	1	Man	70	Adult	Male	71	5735	[269]		1st Class Passenger	1
+CROSBY, Miss Harriette Rebecca	Alive	Southampton	1	Woman	39	Adult	Female	26.55	112901	7		1st Class Passenger	1
+CROSBY, Mrs Catherine Elizabeth	Alive	Southampton	1	Woman	64	Adult	Female	71	5735	7		1st Class Passenger	1
+CROSS, Mr William Alfred	Dead	Southampton	Crew	Man	43	Adult	Male				Fireman	Engineering Crew	E
+CROVELLA, Sig. Luigi	Dead	Southampton	Crew	Man	17	Adult	Male				Assistant Waiter	Restaurant Staff	R
+CROWE, Mr George Frederick	Alive	Southampton	Crew	Man	30	Adult	Male			14	Saloon Steward	Victualling Crew	V
+CRUMPLIN, Mr Charles George Chandler	Dead	Belfast	Crew	Man	35	Adult	Male				Bed Room Steward	Victualling Crew	V
+CULLEN, Mr Charles James	Alive	Belfast	Crew	Man	49	Adult	Male			11	1st Class Bedroom Steward	Victualling Crew	V
+CULUMOVIC, Mr Jeso	Dead	Southampton	3	Man	17	Adult	Male	8.6625	315090			3rd Class Passenger	3
+CUMINGS, Mr John Bradley	Dead	Cherbourg	1	Man	39	Adult	Male	71.2833333	17599			1st Class Passenger	1
+CUMINGS, Mrs Florence Briggs	Alive	Cherbourg	1	Woman	35	Adult	Female	71.2833333	17599	4		1st Class Passenger	1
+CUNNINGHAM, Mr Alfred Fleming	Dead	Belfast	2	Man	21	Adult	Male	0	239853		Fitter	2nd Class PassengerH&W Guarantee Group	2
+CUNNINGHAM, Mr Andrew Orr	Alive	Belfast	Crew	Man	38	Adult	Male			4	1st Class Bedroom Steward	Victualling Crew	V
+CUNNINGHAM, Mr B.	Dead	Southampton	Crew	Man	30	Adult	Male				Fireman	Engineering Crew	E
+CURTIS, Mr Arthur	Dead	Southampton	Crew	Man	25	Adult	Male				Fireman	Engineering Crew	E
+DAHER, Mr Tannous	Dead	Cherbourg	3	Man	28	Adult	Male	7.22916667	2686			3rd Class Passenger	3
+DAHL, Mr Charles Edward	Alive	Southampton	3	Man	45	Adult	Male	8.05	7598	15	Carpenter / Joiner	3rd Class Passenger	3
+DAHLBERG, Miss Gerda Ulrika	Dead	Southampton	3	Woman	22	Adult	Female	10.5166667	7552			3rd Class Passenger	3
+DAKIC, Mr Branko	Dead	Southampton	3	Man	19	Adult	Male	10.1708333	349228		General Labourer	3rd Class Passenger	3
+DALY, Miss Margaret Marcella	Alive	Queenstown	3	Woman	33	Adult	Female	6.95		15	Housekeeper		3
+DALY, Mr Eugene Patrick	Alive	Queenstown	3	Man	29	Adult	Male	7.75	382651	B	Farm Labourer	3rd Class Passenger	3
+DALY, Mr Peter Dennis	Alive	Southampton	1	Man	51	Adult	Male	26.55	113055	5	Businessman	1st Class Passenger	1
+DANBOM, Master Gilbert Sigvard Emanuel	Dead	Southampton	3	Child	0.33	Child	Male	14.4	347080			3rd Class Passenger	3
+DANBOM, Mr Ernst Gilbert	Dead	Southampton	3	Man	34	Adult	Male	14.4	347080	[197]	General Labourer	3rd Class Passenger	3
+DANBOM, Mrs Anna Sigrid Maria	Dead	Southampton	3	Woman	28	Adult	Female	14.4	347080			3rd Class Passenger	3
+DANIEL, Mr Robert Williams	Alive	Southampton	1	Man	27	Adult	Male	30.5	113804	3		1st Class Passenger	1
+DANIELS, Miss Sarah	Alive	Southampton	1	Woman	33	Adult	Female	151.8	113781	8	Personal Maid	1st Class PassengerServant	1
+DANIELS, Mr Sidney Edward	Alive	Southampton	Crew	Man	18	Adult	Male				Third class steward	Victualling Crew	V
+DANOFF, Mr Yoto	Dead	Southampton	3	Man	27	Adult	Male	7.89583333	349219		General Labourer	3rd Class Passenger	3
+DASHWOOD, Mr William George	Dead	Southampton	Crew	Man	18	Adult	Male			[83]	Saloon Steward (2nd class)	Victualling Crew	V
+DAVIDSON, Mr Thornton	Dead	Cherbourg	1	Man	31	Adult	Male	52	12750			1st Class Passenger	1
+DAVIDSON, Mrs Orian	Alive	Cherbourg	1	Woman	27	Adult	Female	52	12750	3		1st Class Passenger	1
+DAVIES, Master John Morgan jr	Alive	Southampton	2	Child	8	Child	Male	36.75	33112	14		2nd Class Passenger	2
+DAVIES, Mr Alfred J.	Dead	Southampton	3	Man	24	Adult	Male	24.15	48871		Caster	3rd Class Passenger	3
+DAVIES, Mr Charles Henry	Dead	Southampton	2	Man	19	Adult	Male	73.5	14879			2nd Class Passenger	2
+DAVIES, Mr Evan	Dead	Southampton	3	Man	22	Adult	Male	8.05	23568		Miner	3rd Class Passenger	3
+DAVIES, Mr Gordon Raleigh	Dead	Belfast	Crew	Man	32	Adult	Male				1st Class Bedroom Steward	Victualling Crew	V
+DAVIES, Mr John Samuel	Dead	Southampton	3	Man	21	Adult	Male	24.15	48871		Ironworker	3rd Class Passenger	3
+DAVIES, Mr Joseph	Dead	Southampton	3	Man	17	Adult	Male	8.05	48873		Ironworker	3rd Class Passenger	3
+DAVIES, Mr Robert J.	Dead	Belfast	Crew	Man	26	Adult	Male			[191]	Saloon Steward	Victualling Crew	V
+DAVIES, Mr Thomas	Dead	Southampton	Crew	Man	33	Adult	Male				Leading Fireman	Engineering Crew	E
+DAVIES, Mrs Agnes	Alive	Southampton	2	Woman	48	Adult	Female	36.75		14			2
+DAVIS, Miss Mary	Alive	Southampton	2	Woman	28	Adult	Female	13	237668	13		2nd Class Passenger	2
+DAVIS, Mr John	Dead	Belfast	Crew	Man	29	Adult	Male			[200]	Extra 2nd Baker	Victualling Crew	V
+DAVIS, Mr Stephen James	Dead	Southampton	Crew	Man	39	Adult	Male				Able Seaman	Deck Crew	D
+DAVISON, Mr Thomas Henry	Dead	Southampton	3	Man	32	Adult	Male	16.1	386525		Blacksmith	3rd Class Passenger	3
+DAVISON, Mrs Mary E.	Alive	Southampton	3	Woman	34	Adult	Female	16.1	386525	16		3rd Class Passenger	3
+DAWSON, Mr Joseph	Dead	Southampton	Crew	Man	23	Adult	Male			[227]	Trimmer	Engineering Crew	E
+DE MARSICO, Sig. Govanni	Dead	Southampton	Crew	Man	20	Adult	Male				Assistant Waiter	Restaurant Staff	R
+DE MESSEMAEKER, Mr Guillaume Joseph	Alive	Southampton	3	Man	36	Adult	Male	17.4	345572	15		3rd Class Passenger	3
+DE MESSEMAEKER, Mrs Anna	Alive	Southampton	3	Woman	36	Adult	Female	17.4	345572	13		3rd Class Passenger	3
+DE MULDER, Mr Theodoor	Alive	Southampton	3	Man	30	Adult	Male	9.5	345774	11		3rd Class Passenger	3
+DE PELSMAEKER, Mr Alfons	Dead	Southampton	3	Man	16	Adult	Male	9.5	345778		Farm Labourer	3rd Class Passenger	3
+DEACON, Mr Percy William	Dead	Southampton	2	Man	18	Adult	Male	73.5	14879		Baker	2nd Class Passenger	2
+DEAN, Master Bertram Vere	Alive	Southampton	3	Child	1	Child	Male	20.575	2315	10		3rd Class Passenger	3
+DEAN, Miss Elizabeth Gladys 'Millvina'	Alive	Southampton	3	Child	0.08	Child	Female	20.575	2315	10		3rd Class Passenger	3
+DEAN, Mr Bertram Frank	Dead	Southampton	3	Man	25	Adult	Male	20.575	2315		Farmer	3rd Class Passenger	3
+DEAN, Mr George H.	Dead	Southampton	Crew	Man	19	Adult	Male			[252]	Assistant Saloon Steward	Victualling Crew	V
+DEAN, Mrs Eva Georgetta	Alive	Southampton	3	Woman	32	Adult	Female	20.575	2315	10		3rd Class Passenger	3
+DEBREUCQ, Mr Maurice Emile Victor	Dead	Southampton	Crew	Man	18	Adult	Male			[244]	Assistant Waiter	Restaurant Staff	R
+DEEBLE, Mr Alfred Arnold	Dead	Belfast	Crew	Man	34	Adult	Male			[270]	Saloon Steward (1st class)	Victualling Crew	V
+DEL CARLO, Mr Sebastiano	Dead	Cherbourg	2	Man	29	Adult	Male	27.7208333	2167	[295]		2nd Class Passenger	2
+DEL CARLO, Mrs Argene	Alive	Cherbourg	2	Woman	24	Adult	Female	27.7208333	2167	11		2nd Class Passenger	2
+DELALIC, Mr Redjo	Dead	Southampton	3	Man	25	Adult	Male	7.89583333	349250		General Labourer	3rd Class Passenger	3
+DENBUOY, Mr Albert (Herbert)	Dead	Southampton	2	Man	25	Adult	Male	31.5					2
+DENKOFF, Mr Mitto	Dead	Southampton	3	Man	30	Adult	Male	7.89583333	349225		General Labourer	3rd Class Passenger	3
+DENNIS, Mr Samuel	Dead	Southampton	3	Man	22	Adult	Male	7.25	21172		Farmer	3rd Class Passenger	3
+DENNIS, Mr William	Dead	Southampton	3	Man	26	Adult	Male	7.25	21175		Farmer	3rd Class Passenger	3
+DERRETT, Mr Arthur Henry	Dead	Belfast	Crew	Man	28	Adult	Male				Saloon Steward (1st class)	Victualling Crew	V
+DESLANDES, Mr Percival Stainer	Dead	Southampton	Crew	Man	36	Adult	Male			[212]	Saloon Steward	Victualling Crew	V
+DESVERNINE, Mr Louis Gabriel	Dead	Southampton	Crew	Man	20	Adult	Male				Assistant Pastry Cook	Restaurant Staff	R
+DEVANEY, Miss Margaret Delia	Alive	Queenstown	3	Woman	19	Adult	Female	7.87916667	330958	C		3rd Class Passenger	3
+DIAPER, Mr John Joseph	Alive	Southampton	Crew	Man	27	Adult	Male				Fireman	Engineering Crew	E
+DIBDEN, Mr William	Dead	Southampton	2	Man	18	Adult	Male	73.5	14879		General Labourer	2nd Class Passenger	2
+DICK, Mr Albert Adrian	Alive	Southampton	1	Man	31	Adult	Male	57	17474	3		1st Class Passenger	1
+DICK, Mrs Vera	Alive	Southampton	1	Woman	17	Adult	Female	57	17474	3		1st Class Passenger	1
+DICKSON, Mr William	Dead	Southampton	Crew	Man	36	Adult	Male				Trimmer	Engineering Crew	E
+DIKA, Mr Mirko	Dead	Southampton	3	Man	17	Adult	Male	7.89583333	349232			3rd Class Passenger	3
+DILLEY, Mr John	Alive	Southampton	Crew	Man	30	Adult	Male				Fireman	Engineering Crew	E
+DILLON, Mr Thomas Patrick	Alive	Southampton	Crew	Man	24	Adult	Male			4	Trimmer	Engineering Crew	E
+DIMIC, Mr Jovan	Dead	Southampton	3	Man	42	Adult	Male	8.6625	315088			3rd Class Passenger	3
+DINENAGE, Mr James Richard	Dead	Southampton	Crew	Man	49	Adult	Male				Saloon Steward (1st class)	Victualling Crew	V
+DINTCHEFF, Mr Valtcho	Dead	Southampton	3	Man	43	Adult	Male	7.89583333	349226			3rd Class Passenger	3
+DODD, Mr Edward Charles	Dead	Belfast	Crew	Man	38	Adult	Male				Junior 3rd. Engineer	Engineering Crew	E
+DODD, Mr George Charles	Dead	Belfast	Crew	Man	44	Adult	Male				Second Steward, 1st Class	Victualling Crew	V
+DODDS, Mr Henry Watson	Dead	Southampton	Crew	Man	27	Adult	Male				Junior Assistant 4th Engineer	Engineering Crew	E
+DODGE, Dr Washington	Alive	Southampton	1	Man	52	Adult	Male	81.8583333	33638	13	Politician	1st Class Passenger	1
+DODGE, Master Washington	Alive	Southampton	1	Child	4	Child	Male	81.8583333	33638	5		1st Class Passenger	1
+DODGE, Mrs Ruth	Alive	Southampton	1	Woman	34	Adult	Female	81.8583333	33638	5		1st Class Passenger	1
+DOEL, Mr Frederick	Alive	Southampton	Crew	Man	22	Adult	Male				Fireman	Engineering Crew	E
+DOLBY, Mr Joseph	Dead	Belfast	Crew	Man	38	Adult	Male				Reception Steward (1st Class)	Victualling Crew	V
+DOLING, Miss Elsie	Alive	Southampton	2	Woman	18	Adult	Female	23	231919			2nd Class Passenger	2
+DOLING, Mrs Ada Julia Elizabeth	Alive	Southampton	2	Woman	34	Adult	Female	23	231919			2nd Class Passenger	2
+DONATI, Sig. Italo Francesco	Dead	Southampton	Crew	Man	17	Adult	Male			[311]	Assistant Waiter	Restaurant Staff	R
+DONOGHUE, Mr Frank (?Thomas)	Dead	Belfast	Crew	Man	35	Adult	Male				Bed Room Steward	Victualling Crew	V
+DONOHOE, Miss Bridget	Dead	Queenstown	3	Woman	21	Adult	Female	7.75	364856			3rd Class Passenger	3
+DOOLEY, Mr Patrick	Dead	Queenstown	3	Man	38	Adult	Male	7.75	370376		General Labourer	3rd Class Passenger	3
+DORE, Mr Albert James	Alive	Southampton	Crew	Man	22	Adult	Male				Trimmer	Engineering Crew	E
+DORKING, Mr Edward Arthur	Alive	Southampton	3	Man	18	Adult	Male	8.05	10482	B	Groom	3rd Class Passenger	3
+DORNIER, Mr Louis Auguste	Dead	Southampton	Crew	Man	20	Adult	Male				Assistant Fish Cook	Restaurant Staff	R
+DOUGHERTY, Mr William John	Dead	Queenstown	3	Man	22	Adult	Male	8.45833333	330877			3rd Class Passenger	3
+DOUGHTY, Mr Walter Thomas	Dead	Southampton	Crew	Man	22	Adult	Male				Saloon Steward (2nd class)	Victualling Crew	V
+DOUGLAS, Mr Walter Donald	Dead	Cherbourg	1	Man	50	Adult	Male	106.425	17761	[62]		1st Class Passenger	1
+DOUGLAS, Mrs Mahala	Alive	Cherbourg	1	Woman	48	Adult	Female	106.425	17761	2		1st Class Passenger	1
+DOUGLAS, Mrs Mary Hlne	Alive	Cherbourg	1	Woman	27	Adult	Female	247.520833	17558	6		1st Class Passenger	1
+DOUTON, Mr William Joseph	Dead	Southampton	2	Man	55	Adult	Male	26	28403		Quarryman	2nd Class Passenger	2
+DOWDELL, Miss Elizabeth	Alive	Southampton	3	Woman	31	Adult	Female	12.475	364516	13	Housekeeper	3rd Class Passenger	3
+DOYLE, Miss Elizabeth	Dead	Queenstown	3	Woman	28	Adult	Female	7.75	368702			3rd Class Passenger	3
+DOYLE, Mr Laurence	Dead	Southampton	Crew	Man	27	Adult	Male				Fireman	Engineering Crew	E
+DRAZENOVIC, Mr Jozef	Dead	Cherbourg	3	Man	33	Adult	Male	7.89583333	349241	[51]	General Labourer	3rd Class Passenger	3
+DREW, Master Marshall Brines	Alive	Southampton	2	Child	8	Child	Male	32.5	28220	10		2nd Class Passenger	2
+DREW, Mr James Vivian	Dead	Southampton	2	Man	42	Adult	Male	32.5	28220			2nd Class Passenger	2
+DREW, Mrs Lulu Thorne	Alive	Southampton	2	Woman	34	Adult	Female	32.5	28220	10		2nd Class Passenger	2
+DROPKIN, Miss Jennie	Alive	Southampton	3	Woman	24	Adult	Female	8.05	392083		Box Maker	3rd Class Passenger	3
+DUFF GORDON, Lucy Christiana, Lady	Alive	Cherbourg	1	Woman	48	Adult	Female	56.9291667	17485	1	Dressmaker / Couturire	1st Class Passenger	1
+DUFF GORDON, Sir Cosmo Edmund	Alive	Cherbourg	1	Man	49	Adult	Male	39.6	11755	1	Landowner	1st Class Passenger	1
+DUFFY, Mr William Luke	Dead	Belfast	Crew	Man	36	Adult	Male				Writer / Engineer's Clerk	Engineering Crew	E
+DULLES, Mr William Crothers	Dead	Cherbourg	1	Man	39	Adult	Male	29.7	17580	[133]		1st Class Passenger	1
+DUNFORD, Mr William	Dead	Southampton	Crew	Man	47	Adult	Male			[71]	Hospital Steward	Victualling Crew	V
+DUQUEMIN, Mr Joseph Pierre	Alive	Southampton	3	Man	24	Adult	Male	7.55	752	D	Mason	3rd Class Passenger	3
+DURN I MON, Sra. Florentina	Alive	Cherbourg	2	Woman	30	Adult	Female	13.8583333	2148	12		2nd Class Passenger	2
+DURAN Y MORE, Sra. Asuncion	Alive	Cherbourg	2	Woman	27	Adult	Female	13.8583333	2149	12		2nd Class Passenger	2
+DURNIL, Mr James	Dead	Southampton	Crew	Man	38	Adult	Male				Leading Fireman	Engineering Crew	E
+DWAN, Mr Frank	Dead	Queenstown	3	Man	65	Adult	Male	7.75	336439		Farm Labourer	3rd Class Passenger	3
+DYER, Mr Henry Ryland	Dead	Belfast	Crew	Man	24	Adult	Male				Senior Assistant 4th. Engineer	Engineering Crew	E
+DYER, Mr William Henry	Dead	Southampton	Crew	Man	31	Adult	Male				Saloon Steward (1st class)	Victualling Crew	V
+DYKER, Mr Adolf Fredrik	Dead	Southampton	3	Man	23	Adult	Male	13.9	347072		General Labourer	3rd Class Passenger	3
+DYKER, Mrs Anna Elisabeth Judith	Alive	Southampton	3	Woman	22	Adult	Female	13.9	347072	16		3rd Class Passenger	3
+DYMOND, Mr Frank	Alive	Southampton	Crew	Man	40	Adult	Male			15	Fireman	Engineering Crew	E
+EAGLE, Mr Alfred James	Dead	Southampton	Crew	Man	22	Adult	Male				Trimmer	Engineering Crew	E
+EARNSHAW, Mrs Olive	Alive	Cherbourg	1	Woman	23	Adult	Female	83.1583333	11767	7	Of Independent Means	1st Class Passenger	1
+EASTMAN, Mr Charles	Dead	Southampton	Crew	Man	44	Adult	Male				Greaser	Engineering Crew	E
+EDBROOKE, Mr Francis Samuel Jacob	Dead	Southampton	Crew	Man	23	Adult	Male				Third class steward	Victualling Crew	V
+EDE, Mr George Bulkeley	Dead	Southampton	Crew	Man	22	Adult	Male				3rd Class Steward	Victualling Crew	V
+EDGE, Mr Frederick William	Dead	Southampton	Crew	Man	39	Adult	Male				Deck Steward (2nd class)	Victualling Crew	V
+EDVARDSSON, Mr Gustaf Hjalmar	Dead	Southampton	3	Man	18	Adult	Male	7.775	349912		General Labourer	3rd Class Passenger	3
+EDWARDS, Mr Charles Essex	Dead	Southampton	Crew	Man	39	Adult	Male				Assistant Pantryman Steward (1st Class)	Victualling Crew	V
+EGG, Mr William Henry	Dead	Southampton	Crew	Man	47	Adult	Male				Third class steward	Victualling Crew	V
+EITEMILLER, Mr George Floyd	Dead	Southampton	2	Man	25	Adult	Male	13	29751			2nd Class Passenger	2
+EKLUND, Mr Hans Linus	Dead	Southampton	3	Man	16	Adult	Male	7.775	347074		General Labourer	3rd Class Passenger	3
+EKSTRM, Mr Johan	Dead	Southampton	3	Man	45	Adult	Male	6.975	347061		General Labourer	3rd Class Passenger	3
+ELIAS NASRALLAH, Mr Tannous	Dead	Cherbourg	3	Man	22	Adult	Male	7.22916667	2695		General Labourer	3rd Class Passenger	3
+ELIAS, Mr Dibo	Dead	Cherbourg	3	Man	29	Adult	Male	7.225	2674		General Labourer	3rd Class Passenger	3
+ELIAS, Mr Joseph jr.	Dead	Cherbourg	3	Man	15	Adult	Male	7.22916667	2690		General Labourer	3rd Class Passenger	3
+ELLIOTT, Mr Everett Edward	Dead	Southampton	Crew	Man	24	Adult	Male			[317]	Trimmer	Engineering Crew	E
+ELLIS, Mr John Bertie	Alive	Southampton	Crew	Man	28	Adult	Male			2	Assistant Vegetable Cook	Victualling Crew	V
+ELSBURY, Mr William James	Dead	Southampton	3	Man	47	Adult	Male	7.25	3902		Farmer	3rd Class 
